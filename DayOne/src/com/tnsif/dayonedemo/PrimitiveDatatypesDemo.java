@@ -31,7 +31,7 @@ public class PrimitiveDatatypesDemo {
 
 		float f=3234.141243278345f;
 		
-		double d=3456.14124512345678914f;
+		double d=3456.14124512345678914;
 		System.out.println("Float value is  " + f + "Double value is "+ d);
 
 
